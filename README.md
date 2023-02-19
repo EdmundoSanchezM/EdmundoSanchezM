@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Edmundo Josue Sanchez Mendez</h1>
-<h3 align="center">I'm Jesús Medina, a Software Engineering and I´m a Python, Java and C developer. An enthusiast of embedded systems</h3>
+<h3 align="center">I'm Edmundo Sanchez, a Software Engineering and I´m a Python, Java and C developer. An enthusiast of embedded systems</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=edmundosanchezm&label=Profile%20views&color=0e75b6&style=flat" alt="edmundosanchezm" /> </p>
 

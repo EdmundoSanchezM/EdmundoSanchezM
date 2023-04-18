@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **edmundo.josue.s.m@gmail.com**
 
-- 🤖 Co-creator of MemOso a delivery robot. More info here **https://www.comunidad.escom.ipn.mx/ALIROB/MemOso/**
+- 🤖 Main creator of MemOso a delivery robot. More info here **https://www.comunidad.escom.ipn.mx/ALIROB/MemOso/**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
